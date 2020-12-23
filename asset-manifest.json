@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/AdministradorCitasReactjs/static/css/main.9bf9fbde.chunk.css",
+    "main.js": "/AdministradorCitasReactjs/static/js/main.0bf1b063.chunk.js",
+    "main.js.map": "/AdministradorCitasReactjs/static/js/main.0bf1b063.chunk.js.map",
+    "runtime-main.js": "/AdministradorCitasReactjs/static/js/runtime-main.e66496d1.js",
+    "runtime-main.js.map": "/AdministradorCitasReactjs/static/js/runtime-main.e66496d1.js.map",
+    "static/js/2.bdd2dac7.chunk.js": "/AdministradorCitasReactjs/static/js/2.bdd2dac7.chunk.js",
+    "static/js/2.bdd2dac7.chunk.js.map": "/AdministradorCitasReactjs/static/js/2.bdd2dac7.chunk.js.map",
+    "index.html": "/AdministradorCitasReactjs/index.html",
+    "static/css/main.9bf9fbde.chunk.css.map": "/AdministradorCitasReactjs/static/css/main.9bf9fbde.chunk.css.map",
+    "static/js/2.bdd2dac7.chunk.js.LICENSE.txt": "/AdministradorCitasReactjs/static/js/2.bdd2dac7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e66496d1.js",
+    "static/js/2.bdd2dac7.chunk.js",
+    "static/css/main.9bf9fbde.chunk.css",
+    "static/js/main.0bf1b063.chunk.js"
+  ]
+}
